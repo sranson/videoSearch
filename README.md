@@ -13,7 +13,7 @@ This is a Mock YouTube app built while taking the Udemy course "Modern React wit
 
 
 ## Deployed Site
-[Image Search Tool](https://sranson.github.io/videoSearch//)
+[Mock YouTube Site](https://sranson.github.io/videoSearch//)
 
 ## Screenshots
 
